@@ -12,7 +12,7 @@ This project provides a basic Blackjack game built with JavaScript, HTML, and CS
 The game features a simple interface with two buttons:
 
 * **START GAME:** Click this button to begin a new game. It will deal two cards to the player and one to the dealer (player cards face up, dealer card face down).
-* **HIT:** This button allows you to draw an additional card for the player's hand. Be mindful of exceeding 21 (busting).
+* **NEW CARD** This button allows you to draw an additional card for the player's hand. Be mindful of exceeding 21 (busting).
 
 The game follows standard Blackjack rules:
 
