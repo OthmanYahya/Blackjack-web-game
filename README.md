@@ -1,5 +1,7 @@
 ## Blackjack - A Simple Card Game
 
+![image](https://github.com/user-attachments/assets/ad2556e5-dceb-48c1-bec7-4f082df78ae1)
+
 This project provides a basic Blackjack game built with JavaScript, HTML, and CSS. It offers a stripped-down experience to focus on core gameplay.
 
 ### Getting Started
